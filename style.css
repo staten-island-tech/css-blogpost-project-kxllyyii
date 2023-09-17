@@ -36,12 +36,3 @@ body{
     right: 540px;
     width: 5vw;
 }
-
-.thing2 {
-
-    position: absolute;
-    top: 60px ;
-    right: -540px;
-    width: 5vw;
-
-}
