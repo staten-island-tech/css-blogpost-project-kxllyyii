@@ -1,9 +1,10 @@
 
 .center{
 
+    border: 20px solid rgb(223, 175, 214);
     width: 30vw;
 margin: 60px auto;
-background-color: azure;
+background-color: rgb(255, 255, 255);
    padding: 2%;
 text-align:center
 
@@ -14,15 +15,15 @@ p {
     font-family: 'Shadows Into Light', cursive;
 }
 body{
-    background-color:pink
+    background-color:rgb(235, 196, 228)
 }
 
 
 .strawberry{
 
-    border: 30px solid lightpink;
-    width: 30vw;
-    margin: 60px auto;
+    border: 20px solid rgb(223, 175, 214);
+    width: 35vw;
+    margin: 40px auto;
     background-color: azure;
        padding: 2%;
     text-align:center
@@ -31,5 +32,16 @@ body{
 .thing {
 
     position: absolute;
-    top: 30px ;
+    top: 60px ;
+    right: 540px;
+    width: 5vw;
+}
+
+.thing2 {
+
+    position: absolute;
+    top: 60px ;
+    right: -540px;
+    width: 5vw;
+
 }
