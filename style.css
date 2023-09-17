@@ -1,0 +1,30 @@
+
+.center{
+
+    width: 30vw;
+margin: 60px auto;
+background-color: azure;
+   padding: 2%;
+text-align:center
+
+}
+
+
+p {
+    font-family: 'Shadows Into Light', cursive;
+}
+body{
+    background-color:pink
+}
+
+
+.strawberry{
+
+    border: 30px solid lightpink;
+    width: 30vw;
+    margin: 60px auto;
+    background-color: azure;
+       padding: 2%;
+    text-align:center
+
+}
